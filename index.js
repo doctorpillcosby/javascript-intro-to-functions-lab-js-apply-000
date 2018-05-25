@@ -19,7 +19,8 @@ function logShout(string){
   
   function sayHiToGrandma(sring) {
     
-    if 
+    if (string.toUpperCase) === string 
+    return 
     
   }
   
