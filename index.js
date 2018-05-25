@@ -20,7 +20,7 @@ function logShout(string){
   function sayHiToGrandma(sring) {
     
     if (string.toUpperCase) === string 
-    return 
+    return "I can't hear you!"
     
   }
   
