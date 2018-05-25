@@ -17,11 +17,11 @@ function logShout(string){
   console.log(string.toUpperCase())
   }
   
-  function sayHiToGrandma(sring) {
+  function sayHiToGrandma(string) {
     
-    if string.toUpperCase() === string {
+    if string.toUpperCase() === string 
     return "I can't hear you!"
-    }
+    
     
   }
   
